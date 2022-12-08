@@ -1,10 +1,6 @@
 ### Hi there 👋
-
+------------------
 <!--
-**tania-tfs/tania-tfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 💻 Full-time learner @ Front-end developer
 -->
 <h4 align="left">Connect with me:</h4>
