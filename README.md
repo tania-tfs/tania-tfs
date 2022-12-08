@@ -1,5 +1,5 @@
 ### Hi there 👋
-* 💻 Full-time learner @ Front-end developer
+💻 Full-time learner @ Front-end developer
 ##
 
 <h4 align="left">🛠️ Languages and Tools:</h4>
