@@ -1,5 +1,5 @@
 ### Hi there 👋
-------------------
+## ------------------
 <!--
 - 💻 Full-time learner @ Front-end developer
 -->
